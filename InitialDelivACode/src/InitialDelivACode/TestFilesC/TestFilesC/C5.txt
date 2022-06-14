@@ -1,0 +1,6 @@
+~               Val    C    H    K    M    P  
+Cleveland         C    ~ 1114  700  630  360
+Houston           H 1114    ~  644 1056 1341
+KansasCity        K  700  644    ~  413 1039
+Minneapolis       M  630 1056  413    ~  985
+Philadelphia      P  360 1341 1039  985    ~
